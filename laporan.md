@@ -167,55 +167,56 @@
 
 ## Cara Pemakaian
 
-  Penggunaan forum diskusi flarum sangat mudah dengan *user interface* yang mudah dimengerti, agar dapat memulai diskusi, user harus login dengan menggunakan akun yang dibuat pada forum.
+  - Penggunaan forum diskusi flarum sangat mudah dengan *user interface* yang mudah dimengerti, agar dapat memulai diskusi, user harus login dengan menggunakan akun yang dibuat pada forum.
   
-  ![Login](http://i.imgur.com/aUrbHjZ.png)
+    ![Login](http://i.imgur.com/aUrbHjZ.png)
   
-  Setelah login, klik tombol **Start a discussion** untuk membuat thread diskusi baru.
+    Setelah login, klik tombol **Start a discussion** untuk membuat thread diskusi baru.
   
-  ![homepage](https://i.imgur.com/LWPVj0a.png)
+    ![homepage](https://i.imgur.com/LWPVj0a.png)
   
-  ![Start a discussion](http://i.imgur.com/nffv8vK.png)
+    ![Start a discussion](http://i.imgur.com/nffv8vK.png)
   
-  User dapat memilih tags untuk thread yang akan dibuat, `tag baru` akan digunakan untuk thread ini.
+    User dapat memilih tags untuk thread yang akan dibuat, `tag baru` akan digunakan untuk thread ini.
   
-  ![Choose tags](http://i.imgur.com/VEkGcqS.png)
+    ![Choose tags](http://i.imgur.com/VEkGcqS.png)
   
-  ![Post-ready](http://i.imgur.com/1e2fnCR.png)
+    ![Post-ready](http://i.imgur.com/1e2fnCR.png)
   
-  Tampilan diskusi forum
+    Tampilan diskusi forum
   
-  ![foo](http://i.imgur.com/Tity9vU.png)
+    ![foo](http://i.imgur.com/Tity9vU.png)
   
-  Ketika tombol *drop-down* **Reply** diklik, maka akan muncul pilihan **Rename**, **Sticky**, **Edit Tags**, dan **Delete**. Ke-empat fungsi ini hanya bisa dilakukan oleh pemilik thread.
+    Ketika tombol *drop-down* **Reply** diklik, maka akan muncul pilihan **Rename**, **Sticky**, **Edit Tags**, dan **Delete**. Ke-empat fungsi ini hanya bisa dilakukan oleh pemilik thread.
   
-  ![Reply dropdown menu](http://i.imgur.com/gSJQmue.png)
+    ![Reply dropdown menu](http://i.imgur.com/gSJQmue.png)
   
-  **Rename** berfungsi untuk merubah judul thread diskusi
+    **Rename** berfungsi untuk merubah judul thread diskusi
   
-  ![Rename](http://i.imgur.com/Z6iihmP.png)
+    ![Rename](http://i.imgur.com/Z6iihmP.png)
   
-  **Sticky** berfungsi untuk menempelkan thread diskusi yang akan membuat thread muncul di paling atas list thread diskusi pada *homepage*
+    **Sticky** berfungsi untuk menempelkan thread diskusi yang akan membuat thread muncul di paling atas list thread diskusi pada *homepage*
   
-  **Edit Tags** berfungsi untuk merubah atau menambahkan tag pada thread diskusi tersebut.
-  ![Edit Tags](http://i.imgur.com/fEpeziJ.png)
+    **Edit Tags** berfungsi untuk merubah atau menambahkan tag pada thread diskusi tersebut.
+    
+    ![Edit Tags](http://i.imgur.com/fEpeziJ.png)
   
-  **Delete** berfungsi untuk menghapus thread diskusi
+    **Delete** berfungsi untuk menghapus thread diskusi
   
   
-  Akan dibuat thread diskusi baru dengan tag lain bernama `tag lain`
+    Akan dibuat thread diskusi baru dengan tag lain bernama `tag lain`
   
-  ![foo2](http://i.imgur.com/wcWMlo8.png)
+    ![foo2](http://i.imgur.com/wcWMlo8.png)
   
-  Kedua thread akan muncul pada *homepage* jika melihat *homepage* dengan **All dicsussions**.
+    Kedua thread akan muncul pada *homepage* jika melihat *homepage* dengan **All dicsussions**.
   
-  ![homepage](http://i.imgur.com/WUJ0m4U.png)
+    ![homepage](http://i.imgur.com/WUJ0m4U.png)
   
-  Namun jika **tag baru** diklik, maka thread yang akan muncul hanya thread **foo** dengan tag `tag baru`, dan jika **tag lain** diklik, maka hanya thread dengan tag `tag lain` yang akan muncul yaitu **foo2**.
+    Namun jika **tag baru** diklik, maka thread yang akan muncul hanya thread **foo** dengan tag `tag baru`, dan jika **tag lain** diklik, maka hanya thread dengan tag `tag lain` yang akan muncul yaitu **foo2**.
   
-  ![tag baru](http://i.imgur.com/i46UPqF.png)
+    ![tag baru](http://i.imgur.com/i46UPqF.png)
   
-  ![tag lain](http://i.imgur.com/x0rbylP.png)
+    ![tag lain](http://i.imgur.com/x0rbylP.png)
 
 ## Pembahasan
 
