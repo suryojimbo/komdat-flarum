@@ -226,7 +226,7 @@
   Cons:
   - Meskipun mudah untuk dikembangkan tetapi lama untuk pengembangannya
   - Banyak *bugs*
-  - Masih dalam tahap produksi beta dan tidak stabilhub
+  - Masih dalam tahap produksi beta dan tidak stabil
   - Tidak berguna jika digunakan secara lokal atau *self local hosted*
   
   Aplikasi Pembanding : 
