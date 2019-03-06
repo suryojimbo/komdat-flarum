@@ -78,19 +78,15 @@
     $ sudo nano /etc/apache2/sites-available/000-default.conf
 
     <VirtualHost *:80>
-      ServerAdmin admin@your-domain.com
-      DocumentRoot /var/www/html/flarum
-      ServerName your-domain.com
-      ServerAlias www.your-domain.com
-      <Directory /var/www/html/flarum/>
-        Options FollowSymLinks
-        AllowOverride All
-        Order allow,deny
-        allow from all
-      </Directory>
-    ErrorLog /var/log/apache2/your-domain.com-error_log
-    CustomLog /var/log/apache2/your-domain.com-access_log common
+        ServerAdmin webmaster@localhost
+        DocumentRoot /var/www/html/
+        <Directory /var/www/html/flarum/>
+            AllowOverride All
+        </Directory>
+    ErrorLog ${APACHE_LOG_DIR}/error.log
+    CustomLog ${APACHE_LOG_DIR}/access.log combined
     </VirtualHost>
+    # vim: syntax=apache ts=4 sw=4 sts=4 sr noet
     ```
 
 9. Restart Apache web server.
