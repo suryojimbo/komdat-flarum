@@ -230,10 +230,13 @@
   - Tidak berguna jika digunakan secara lokal atau *self local hosted*
   
   Aplikasi Pembanding : 
+  
   Humhub
-    Humhub merupakan aplikasi sosial media open source yang mirip seperti facebook, yaitu setiap user memiliki *timeline*-nya sendiri, membuat post di halamannya sendiri, dan meninggalkan komentar pada post orang lain.
-    Perbedaannya dengan aplikasi kami (Flarum) adalah flarum berbentuk forum, yaitu setiap user dapat membuat thread (pembahasan) yang nantinya user lain dapat ikut membahas tentang topik yang diangkat oleh thread tersebut. Sedangkan humhub berbentuk seperti social media.
 
+  Humhub merupakan aplikasi sosial media open source yang mirip seperti facebook, yaitu setiap user memiliki *timeline*-nya sendiri, membuat post di halamannya sendiri, dan meninggalkan komentar pada post orang lain.
+  
+  Perbedaannya dengan aplikasi kami (Flarum) adalah flarum berbentuk forum, yaitu setiap user dapat membuat thread (pembahasan) yang nantinya user lain dapat ikut membahas tentang topik yang diangkat oleh thread tersebut. Sedangkan humhub berbentuk seperti social media.
+    
 ## Dokumentasi
 
 *to be added*
